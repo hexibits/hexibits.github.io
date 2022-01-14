@@ -1,0 +1,78 @@
+These Terms of Use ("Terms") govern your rights and obligations regarding the use of Hexibits’s Software ("Software", "Profiler") and service (both collectively referred to as the "Service") on the Internet or in cellular media. These Terms constitute a fully binding agreement between Hexibits. (including its affiliates and subsidiaries, "we", "us" , "Hexibits" "Profiler") the proprietor of all rights in and to the Service, and you. It is therefore recommended that you carefully read these Terms.
+
+By using the Hexibits Service, you signify your assent to these Terms;
+
+Hexibits’s privacy policy ("Privacy Policy")
+
+all of which are an integral part of these Terms.
+
+If you do not agree to these Terms or any of its parts, then you are prohibited and must refrain from using the Service.
+
+KEY POINTS
+
+The following key points of the Terms are highlighted here for your convenience only. These key points are not made in lieu of the full Terms and their presence in this section does not mean that they are intended to supersede or override any other terms or conditions provided by Hexibits.
+
+Non-continuous updates 
+The information provided by the Service originates from other users of the Service. Such information is intrinsically fluctuant and may be inaccurate, incomplete or outdated. Hexibits does not provide any warranties to such information’s credibility or reliability.
+
+Advertisements
+Third party advertisements may appear on the Service from time to time. Hexibits does not endorse these advertisements.
+
+The Internet connection required to use the Service, and any associated charges (e.g. mobile data expenses) incurred by your use of the Service are your exclusive responsibility and made solely at your expense. Transmitting and receiving real-time updates to and from the Service, requires an online (e.g. Wi-Fi, 3G, 4G) connection between your cellular device and the Internet. The expenses of such connection are as prescribed by the agreement between you and your communication service provider (such as your cellular company), and according to its applicable terms of payment.
+
+Privacy
+Your privacy is important to us. While using the Service, personal information may be provided by You or collected by Hexibits as detailed in our Privacy Policy. The Privacy Policy explains our practices pertaining to the use of your personal information and we ask that you read such Privacy Policy carefully. By accepting these Terms, you hereby acknowledge and agree to the collection, storage and use of your personal information by Hexibits, subject to this section.
+
+USING THE SERVICE
+You may use the Service solely for private and personal purposes. You may not use the Service commercially. For example, you may not: (i) offer to third parties a service of your own that uses the Service; (ii) resell the Service; (iii) offer to rent or lease the Service; or (iv) offer the Service to the public via communication or integrate it within a service of your own, without the prior written consent of Hexibits. For clarity, the examples listed are made for illustrative purposes only; they do not constitute an exhaustive list of restricted activities involving the Service.
+
+You may not copy, print, save or otherwise use data from the Site or the Service’s database. This clause does not limit the use of the database as intended by the Software and for the purposes of private and personal use of the Service.
+
+When using the Service or the Site you may not engage in scraping, data mining, harvesting, screen scraping, data aggregating, and indexing. You agree that you will not use any robot, spider, scraper or other automated means to access the Site or the Service’s database for any purpose without the express prior written permission of Hexibits.
+
+The Software may not be used in any way that is not expressly permitted by these Terms.
+
+TERMINATION OF USE OF THE SERVICE
+You may terminate your use of the Service at any time and for whatever reason. You are not obligated to advise Hexibits of such termination.
+
+Hexibits retains the right to block your access to the Service and discontinue your use of the Service, at any time and for any reason Hexibits deems appropriate, at its sole and absolute discretion.
+
+LIMITATION OF LIABILITY AND WARRANTY
+HEXIBITS PROVIDES THE SERVICE AND CONTENT INCLUDED THEREIN FOR USE ON AN “AS IS” AND “AS AVAILABLE” BASIS. THEY CANNOT BE CUSTOMIZED TO FULFILL THE NEEDS OF EACH AND EVERY USER. WE HEREBY DISCLAIM ALL WARRANTIES AND REPRESENTATIONS, EITHER EXPRESS OR IMPLIED, WITH RESPECT TO THE SERVICE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE, FEATURES, QUALITY, NON-INFRINGEMENT, TITLE, COMPATIBILITY, PERFORMANCE, SECURITY OR ACCURACY.IN NO EVENT WILL THE HEXIBITS BE HELD LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SERVICE.
+IF YOU DO NOT WISH TO DO SO, UNINSTALL AND DO NOT USE THE SERVICE.
+
+Additionally and without derogating from the above clause, Hexibits disclaims any warranties relating to the accuracy of functionalities or features provided by the Service.
+
+You agree and acknowledge that you assume full, exclusive and sole responsibility for the use of and reliance on the Service, and you further agree and acknowledge that your use of or reliance on the Service is made entirely at your own risk.
+
+Hexibits exerts efforts to provide you with a high quality and satisfactory service. However, We do not warrant that the Service will operate in an uninterrupted or error-free manner, or that it will always be available or free from all harmful components, or that it is safe, secured from unauthorized access to Hexibits’s computers, immune from damages, free of malfunctions, bugs or failures, including, but not limited to hardware failures, Software failures and Software communication failures, originating either in Hexibits or any of its providers.
+
+HEXIBITS, INCLUDING ITS OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, SUB-CONTRACTORS AND AGENTS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGE, OR ANY OTHER DAMAGE, AND LOSS (INCLUDING LOSS OF PROFIT AND LOSS OF DATA), COSTS, EXPENSES AND PAYMENTS, EITHER IN TORT, CONTRACTUAL, OR IN ANY OTHER FORM OF LIABILITY, ARISING FROM, OR IN CONNECTION WITH THE USE OF, OR THE INABILITY TO USE THE SERVICE, OR FROM ANY FAILURE, ERROR, OR BREAKDOWN IN THE FUNCTION OF THE SERVICE, OR FROM ANY FAULT, OR ERROR MADE BY OUR STAFF OR ANYONE ACTING ON ITS BEHALF, OR FROM YOUR RELIANCE ON THE CONTENT OF THE SERVICE, INCLUDING, WITHOUT LIMITATION, CONTENT ORIGINATING FROM THIRD PARTIES, OR FROM ANY COMMUNICATION WITH THE SERVICE, OR WITH OTHER USERS ON OR THROUGH THE SERVICE, OR FROM ANY DENIAL OR CANCELLATION OF YOUR USER ACCOUNT, OR FROM RETENTION, DELETION, DISCLOSURE AND ANY OTHER USE OR LOSS OF YOUR CONTENT ON THE SERVICE. IN ANY EVENT, YOUR SOLE REMEDY WILL BE LIMITED TO CORRECTING SUCH ERRORS, OR MALFUNCTIONS, AND IN LIGHT OF THE RELEVANT CIRCUMSTANCES.
+
+LINKS AND COMMERCIAL INFORMATION IN THE SOFTWARE
+The Service may include commercial information or advertisements ("Ads"). The Ads may pop up or be displayed on the Services from time to time. Hexibits may post Ads on the Service but more often than not, the source of such Ads is third parties, and as such, Hexibits cannot and does not guarantee the reliability or accuracy of third party Ads. Hexibits does not endorse the content of third party Ads. Additionally and without derogating from the previous sentence, Hexibits will not be liable for any form of liability arising from your reliance on, or in connection with, the use of the content of Ads posted on the Service.
+
+It is underscored that the advertising of commercial content by Hexibits does not constitute a recommendation or encouragement to procure the goods or services advertised.
+
+Insofar as the Software includes links to services or applications not operated or managed by Hexibits, Hexibits will not be liable for any form of liability arising from your reliance on, or in connection with, the content of such services and applications or any information provided by them, including but not limited to its completeness, accuracy, correctness or it being up-to-date. Hexibits will not be liable for any direct or indirect damage, monetary or otherwise, arising from your use of or your reliance on the content of goods or services you have accessed via Ads or other links on the Software.
+
+PRIVACY
+Hexibits respects your privacy during your use of the Software and the Service. Our updated privacy policy pertaining to the Software and the Service is readily accessible at our Privacy Policy and is an integral part of these Terms. Since the privacy policy is subject to periodic updates, it is recommended that you periodically review the policy for updates.
+
+MODIFICATIONS TO THE SERVICE AND SOFTWARE
+Hexibits may, either partially or in its entirety and without being obligated to provide prior notice – modify, adapt or change the Software, the Service’s features, the user interface and design, the extent and availability of the contents in the Service and any other aspect related to the Service. You will have no claim, complaint or demand against Hexibits for applying such changes or for failures incidental to such changes.
+
+TERMINATION OF SERVICE
+Hexibits may, at any time, terminate the provision of the Service in its entirety or any part thereof, temporarily or permanently, at its sole discretion.
+
+MODIFICATIONS OF THESE TERMS
+Hexibits may modify these Terms from time to time. If fundamental changes are introduced, a notice will be posted in the updated version of the Software as well as on the Service’s page on the Site. Your continued use of the Service after the Terms have been modified signifies your assent to the updated Terms. If you dissent to the updated Terms or to any term within them, you must discontinue all further use of the Software.
+
+COMPLETE TERMS
+These Terms, together with the policies that are an integral part of these Terms, namely the Privacy Policy, shall all constitute the entire and complete agreement between you and Hexibits concerning the Hexibits Service. In the event of an inconsistency between these Terms and the synopsis of terms presented to the user during Software installation, these Terms shall prevail.
+
+NO LEGAL RELATIONSHIP
+These Terms of Use and your use of the Service, including the submission of Content onto the Service, do not, and shall not be construed as creating any relationship, partnership, joint venture, employer-employee, agency, or franchisor-franchisee relationship in any way and of any kind between the parties hereto. Your use of the Service is intended for your enjoyment and benefit and the provision of the Service to you (subject to your compliance with these Terms) constitutes the sole and sufficient consideration that you are entitled to receive for any Content or other contributions you have made to the Hexibits Service.
+
+CONTACT US
+You may contact us concerning any question about the Service, do not hesitate to contact us at hexibitsapps@gmail.com.
