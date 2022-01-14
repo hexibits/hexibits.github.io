@@ -1,0 +1,49 @@
+Hexibits ("we", "us" , "Hexibits" "Profiler", "Company", "Developer") built the Profiler as a Free mobile applications (the "Application", "app") (collectively referred to as the "Services"). This Services is provided by Hexibits at no cost and is intended for use as is. When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+
+This Privacy Policy explains what Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our Terms of Service.
+
+Before using the Services or submitting any Information to Hexibits, please review this Privacy Policy carefully and contact us if you have any questions. By using the Service, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Services.
+
+Information that is being collected
+
+You choose to give us certain information when using our services. This includes:
+01 Sound profile name, Ringtone, Media, Notification, System volumes settings values, schedule Date and times for each profile you created in the services.
+02 When you use our services you allow us to access the notification, alarm schedule and Volumes settings (Ringtone, Media, Notification and System)  from your devices.
+
+Information we collect about you from our partners. This includes:
+We work with ad partners, including advertisers on our platform and entities that belong to the Google group of companies, in order to show you more relevant and useful ads based on your activity and information associated with your device’s identifier (i.e, Advertising identifiers or similar technologies) shared with us by our ad partners.
+
+You can decide whether we’ll show you personalized ads or not when you first time using the services.
+
+Note: turning Ads personalization off does not turn off ads - only their personalization.
+
+We may also receive aggregated, non-personally identifiable information and analysis from third parties measurement services which help us understand how our users interact with our ads. We may also receive information from third party services about how Profiler’s own marketing efforts performed on third party sites or platforms.
+
+We use various technologies to collect and store information, including, cookies, Advertising ID available on Android mobile devices or similar technologies, local storage, browser web storage, application data caches, databases, and server logs.
+
+By using the our services, you are also accepting the terms of services and privacy policies of third party services [Google, Google Play Services, Google AdMobs]
+
+How We Share Information
+
+We do not share the Sound profile name, Ringtone, Media, Notification, System volumes settings values, schedule Date to the anyone.
+
+We work with other Google’s services (such as Google AdMobs) for advertising and ad measurement purposes. In order to help advertisers decide what ads to show on Profiler, Google, and websites & apps that partner with Google, we may share information with these services, such as a unique identifier for advertising (i.e, Advertising ID available on Android mobile devices or similar technologies).
+
+Information security
+
+Hexibits considers information security to be a top priority. Hexibits services are built with strong security features that continuously protect your information. Hexibits implements systems, applications and procedures to secure your personal information, to minimize the risk of theft, damage, loss of information, or unauthorized access or use of information. For example, we review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems. In addition, we restrict access to personal information to Hexibits employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you.
+
+However, these measures are unable to provide absolute assurance. Therefore, although Hexibits takes great efforts to protect your personal information, Waze cannot guarantee and you cannot reasonably expect that Hexibits’s databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+
+Children's Privacy
+
+Our services are is not directed to individuals who are under the age of 18.
+
+Privacy Policy Changes
+The Service and our business may change from time to time. As a result we may change this Privacy Policy at any time. When we do we will post an updated version on this page, unless another type of notice is required by the applicable law. By continuing to use our Service or providing us with Personal Information after we have posted an updated Privacy Policy, or notified you by other means if applicable, you consent to the revised Privacy Policy and practices described in it.
+
+Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hexibitsapps@gmail.com.
