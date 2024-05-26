@@ -1,4 +1,4 @@
-Hexibits ("we", "us" , "Hexibits" "SoundScheduler", "Company", "Developer") built the SoundScheduler as a Free mobile applications (the "Application", "app") (collectively referred to as the "Services"). This Services is provided by Hexibits at no cost and is intended for use as is. When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+Hexibits ("we", "us" , "Hexibits" "JaapCounter", "Company", "Developer") built the JaapCounter as a Free mobile applications (the "Application", "app") (collectively referred to as the "Services"). This Services is provided by Hexibits at no cost and is intended for use as is. When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
 
 This Privacy Policy explains what Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our Terms of Service.
 
@@ -17,7 +17,7 @@ You can decide whether we’ll show you personalized ads or not when you first t
 
 Note: turning Ads personalization off does not turn off ads - only their personalization.
 
-We may also receive aggregated, non-personally identifiable information and analysis from third parties measurement services which help us understand how our users interact with our ads. We may also receive information from third party services about how SoundScheduler’s own marketing efforts performed on third party sites or platforms.
+We may also receive aggregated, non-personally identifiable information and analysis from third parties measurement services which help us understand how our users interact with our ads. We may also receive information from third party services about how JaapCounter’s own marketing efforts performed on third party sites or platforms.
 
 We use various technologies to collect and store information, including, cookies, Advertising ID available on Android mobile devices or similar technologies, local storage, browser web storage, application data caches, databases, and server logs.
 
@@ -27,7 +27,7 @@ How We Share Information
 
 We do not share the Sound profile name, Ringtone, Media, Notification, System volumes settings values, schedule Date to the anyone.
 
-We work with other Google’s services (such as Google AdMobs) for advertising and ad measurement purposes. In order to help advertisers decide what ads to show on SoundScheduler, Google, and websites & apps that partner with Google, we may share information with these services, such as a unique identifier for advertising (i.e, Advertising ID available on Android mobile devices or similar technologies).
+We work with other Google’s services (such as Google AdMobs) for advertising and ad measurement purposes. In order to help advertisers decide what ads to show on JaapCounter, Google, and websites & apps that partner with Google, we may share information with these services, such as a unique identifier for advertising (i.e, Advertising ID available on Android mobile devices or similar technologies).
 
 Information security
 
