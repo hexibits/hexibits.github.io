@@ -5,4 +5,10 @@
     <changefreq>monthly</changefreq>
     <priority>1</priority>
   </url>
+  <url>
+    <loc>https://hexibits.com/sound-scheduler</loc>
+    <lastmod>2025-06-28T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
