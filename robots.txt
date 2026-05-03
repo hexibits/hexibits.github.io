@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /private/
-Sitemap: https://www.hexibits.com/sitemap.xml
+Sitemap: https://hexibits.com/sitemap.xml
